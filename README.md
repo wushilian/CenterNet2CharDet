@@ -5,7 +5,9 @@
 ## Main function:
 - *detect characters in text line image*
 
-
+### Test
+- 1.using labelme to label image
+- 2.python train_labelme.py
 
 ### Test
 - *python demo_text.py*
